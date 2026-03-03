@@ -20,3 +20,8 @@ Restrictions:
 a. Python
 b. Red-Shift
 c. Hadoop
+
+Compatibilidade
+https://community.cloudera.com/t5/Community-Articles/Spark-Scala-Version-Compatibility-Matrix/ta-p/383713
+Tutorial
+https://spark.apache.org/docs/latest/quick-start.html
