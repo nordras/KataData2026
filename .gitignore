@@ -1,0 +1,40 @@
+# SBT / Scala
+.target/
+project/target/
+project/project/
+project/metals.sbt
+project/.bloop/
+project/.metals/
+
+# Build outputs
+target/
+out/
+
+# Spark local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.bloop/
+.metals/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Local env files
+.env
+.env.*
+
+# Optional local folder seen in workspace
+null/
