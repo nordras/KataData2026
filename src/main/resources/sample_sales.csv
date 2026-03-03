@@ -1,0 +1,9 @@
+sale_id,sale_ts,city,salesman_id,salesman_name,amount,source_system
+1,2026-03-01T10:00:00,Sao Paulo,101,Ana,1200.50,db
+2,2026-03-01T10:05:00,Rio de Janeiro,102,Bruno,950.00,file
+3,2026-03-01T10:10:00,Sao Paulo,101,Ana,800.00,soap
+4,2026-03-01T10:15:00,Curitiba,103,Carlos,700.00,db
+5,2026-03-01T10:20:00,Rio de Janeiro,104,Daniela,1250.00,file
+6,2026-03-01T10:25:00,Curitiba,103,Carlos,950.00,soap
+7,2026-03-01T10:30:00,Sao Paulo,105,Elisa,1600.00,file
+8,2026-03-01T10:35:00,Rio de Janeiro,104,Daniela,500.00,db
