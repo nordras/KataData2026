@@ -4,6 +4,7 @@ ThisBuild / scalaVersion := "2.12.18"
 lazy val root = (project in file("."))
   .settings(
     name := "katadata-spark-scala",
+    Compile / run / mainClass := Some("com.katadata.jobs.SalesAggregationsJob"),
     Compile / run / fork := true,
     Test / fork := true,
     Compile / run / javaOptions ++= Seq(
