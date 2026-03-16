@@ -32,6 +32,9 @@ desktop.ini
 *.tmp
 *.swp
 
+# Local pipeline data
+data/*.db
+
 # Local env files
 .env
 .env.*
