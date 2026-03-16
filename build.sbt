@@ -16,8 +16,7 @@ lazy val root = (project in file("."))
       "org.apache.flink" %% "flink-table-api-scala-bridge" % flinkVersion,
       "org.apache.flink" % "flink-table-runtime" % flinkVersion,
       "org.apache.flink" % "flink-table-planner-loader" % flinkVersion,
-      "org.apache.flink" % "flink-connector-jdbc" % "3.2.0-1.19",
       "org.slf4j" % "slf4j-simple" % "1.7.36",
-      "org.apache.derby" % "derby" % "10.16.1.1"
+      "org.xerial" % "sqlite-jdbc" % "3.45.1.0"
     )
   )
