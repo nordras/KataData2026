@@ -1,0 +1,9 @@
+sale_id,sale_ts,city,salesman_id,salesman_name,amount,source_system
+S001,2026-03-01T10:00:00,Sao Paulo,SP01,Ana,1200.50,crm
+S002,2026-03-01T10:30:00,Rio de Janeiro,RJ01,Carlos,950.00,erp
+S003,2026-03-01T11:00:00,Sao Paulo,SP01,Ana,450.00,crm
+S004,2026-03-01T12:00:00,Belo Horizonte,BH01,Marina,2100.00,ws
+S005,2026-03-01T13:00:00,Rio de Janeiro,RJ01,Carlos,400.00,erp
+S006,2026-03-01T14:00:00,Curitiba,CT01,Bruno,870.00,crm
+S007,2026-03-01T15:00:00,Belo Horizonte,BH02,Pedro,2500.00,db
+S008,2026-03-01T16:00:00,Curitiba,CT01,Bruno,230.00,ws
