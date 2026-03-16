@@ -1,0 +1,15 @@
+meta {
+  name: Pipeline Runs
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{baseUrl}}/pipeline-runs
+  body: none
+  auth: none
+}
+
+headers {
+  Accept: application/json
+}
